@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">User_Profile_With_Fragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="incomeRangeValues">
+        <item><![CDATA[<$25K]]></item>
+        <item><![CDATA[$25K to <$50K]]></item>
+        <item><![CDATA[$50K to <$100K]]></item>
+        <item><![CDATA[$100K to <$200K]]></item>
+        <item><![CDATA[>$200K]]></item>
+    </string-array>
+</resources>
